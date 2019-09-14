@@ -16,14 +16,18 @@ Flake8 Linting
 
 ## Usage
 
-For running install requirements:
+For running install requirements for unit testing using pytests and linting flake8:
 ```
 pip install -r requirements.txt
 ```
 
-For running intercom and give output:
+For running main program and give output:
 ```
 ./bin/intercom
+```
+or 
+```
+python src/main.py 
 ```
 
 
@@ -63,7 +67,7 @@ Step:
 - CustomerDecoder
     - For decode string json to customer object
 ### Service
-- InviteeService
+- InviteService
     - Calculate distance and get all customer less than 100km sorted by user id 
 ### Core
 - Parsing
