@@ -3,7 +3,7 @@
 
 This program takes an input text file customers.txt and outputs a list of invitees. 
 
-Ouput all customer within 100 km of Intercom's Dublin office.
+Ouput all customer within 100 km of Intercom's Dublin office in output.txt.
 
 Formula calculate distance- https://en.wikipedia.org/wiki/Great-circle_distance.
 
