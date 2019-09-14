@@ -21,7 +21,7 @@ For running install requirements for unit testing using pytests and linting flak
 pip install -r requirements.txt
 ```
 
-For running main program and give output:
+For running main program and give output :
 ```
 ./bin/intercom
 ```
