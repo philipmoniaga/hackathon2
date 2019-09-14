@@ -9,7 +9,23 @@ Formula calculate distance- https://en.wikipedia.org/wiki/Great-circle_distance.
 
 ## Prerequisites
 Python 2.7
+
+
 Flake8 Linting
+
+
+## Usage
+
+For running install requirements:
+```
+pip install -r requirements.txt
+```
+
+For running intercom and give output:
+```
+./bin/intercom
+```
+
 
 ## Command
 
@@ -21,18 +37,6 @@ make tests
 For running linter
 ```
 make lint
-```
-
-## List files
-
-For running install requirements:
-```
-pip install -r requirements.txt
-```
-
-For running intercom and give output:
-```
-./bin/intercom
 ```
 
 
