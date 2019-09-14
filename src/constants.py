@@ -1,0 +1,6 @@
+from models.point import Point
+
+GLOBAL_CIRCLE_DISTANCE = 'GLOBAL_CIRCLE_DISTANCE'
+FILE_NAME = 'customer.txt'
+DUBLIN_OFFICE_LOCATION = Point(53.339428, -6.257664)
+EARTH_MEAN_RADIUS = 6371 # in km
