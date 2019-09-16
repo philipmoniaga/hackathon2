@@ -13,6 +13,8 @@ Python 2.7
 
 Flake8 Linting
 
+Pytest for testing
+
 
 ## Usage
 
